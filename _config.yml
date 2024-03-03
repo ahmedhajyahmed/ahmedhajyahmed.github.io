@@ -21,7 +21,7 @@ repository               : "ahmedhajyahmed/ahmedhajyahmed.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ahmed2.png"
+  avatar           : "ahmed2.jpg"
   name             : "Ahmed Haj Yahmed"
   pronouns         : # example: "she/her"  
   bio              : "M.Sc., Eng. <br /> Software Engineering @Polytechnique Montréal - @Mila - @SWAT Lab"

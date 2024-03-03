@@ -11,12 +11,12 @@ gallery:
   image_path: talks/Semla_1.jpg
   alt: ""
   title: ""
-- url: talks/Semla_2.png
-  image_path: talks/Semla_2.png
+- url: talks/Semla_2.jpg
+  image_path: talks/Semla_2.jpg
   alt: ""
   title: ""
-- url: talks/Semla_3.png
-  image_path: talks/Semla_3.png
+- url: talks/Semla_3.jpg
+  image_path: talks/Semla_3.jpg
   alt: ""
   title: ""
 ---

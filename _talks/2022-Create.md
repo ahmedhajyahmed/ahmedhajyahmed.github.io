@@ -11,8 +11,8 @@ gallery:
   image_path: talks/Create_2.jpg
   alt: ""
   title: ""
-- url: talks/Create_3.png
-  image_path: talks/Create_3.png
+- url: talks/Create_3.jpg
+  image_path: talks/Create_3.jpg
   alt: ""
   title: ""
 ---
