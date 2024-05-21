@@ -17,6 +17,8 @@ my professional and academic achievements.*
 ======
 
 * **M.Sc. in Software Engineering**, *Polytechnique Montreal*, Canada, Jan 2022 ‑ Dec 2023
+  * Winner of Polytechnique's Best Master's Thesis Award in Computer Science and Software Engineering for 2023.
+  * Received "Mention Spéciale du Jury" for the across-discipline competition.
   * GPA: 4.0/4.0; Nominated for Best Thesis Award
   * Conducted a mix of academic and industrial applied research
   * Published in top‑tier conferences (A*) and Q1 journals

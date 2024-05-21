@@ -2,7 +2,8 @@
 layout: archive
 permalink: /
 title: "👋🏼 Hello, I'm Ahmed!"
-excerpt: "About me"
+
+[//]: # (excerpt: "About me")
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,8 +21,11 @@ forefront of supporting **academic research projects** in **Software Engineering
 a field that's just as fascinating as it is crucial for the future of tech 🌐.
 
 I hold an **M.Sc.** 👨‍🎓 in software engineering from **Polytechnique Montreal**, where I had the privilege of working
-under the supervision of [**Prof. Foutse Khomh**](https://mila.quebec/en/person/foutse-khomh/). This involves being a
-member of the [**SWAT Lab**](https://swat.polymtl.ca/), a [**Mila student**](https://mila.quebec/en/),
+under the supervision of [**Prof. Foutse Khomh**](https://mila.quebec/en/person/foutse-khomh/). During my time there, 
+I won the Polytechnique's Best Master's Thesis Award 🏆 in Computer Science and Software Engineering for 2023 and received 
+the [**"Mention Spéciale du Jury"**](https://www.polymtl.ca/carrefour-actualite/nouvelles/polytechnique-montreal-decerne-des-recompenses-pour-des-memoires-et-des-theses-remarquables-en-2023) 
+🏅 for the across-discipline competition. This experience involved being a  member of the 
+[**SWAT Lab**](https://swat.polymtl.ca/), a [**Mila student**](https://mila.quebec/en/),
 and a [**SE4AI CREATE trainee**](https://se4ai.org/), working on the **reliability**
 and **production-readiness** of **Deep Learning** and **Deep Reinforcement Learning** systems. Prior to my time in
 Montreal, I earned my **Engineer Degree** in Software Engineering 👨🏻‍💻 majoring in **Data Science** with honors from
